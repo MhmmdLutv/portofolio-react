@@ -1,8 +1,5 @@
-// MODUL REACT
 import React from "react";
-// MODUL FRAMER MOTION
 import { motion } from "framer-motion";
-// UTILS SAYA
 import { Muncul } from "../utils/Pariasi";
 
 const Kontak = () => {

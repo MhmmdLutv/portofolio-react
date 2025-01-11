@@ -1,7 +1,5 @@
-// MODUL REACT
 import React from "react";
 import { Link } from "react-scroll";
-// UTILS SAYA
 import { TautanNavigasi } from "../utils/Data";
 
 const Navigasi = () => {

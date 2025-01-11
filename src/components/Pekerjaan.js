@@ -1,10 +1,6 @@
-// MODUL REACT
 import React from "react";
-// MODUL FRAMER MOTION
 import { motion } from "framer-motion";
-// UTILS SAYA
 import { Muncul } from "../utils/Pariasi";
-// GAMBAR SAYA
 import Proyek1 from "../assets/siapuk.png";
 import Proyek2 from "../assets/perpustakaan.png";
 import Proyek3 from "../assets/pom.png";

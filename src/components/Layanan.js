@@ -1,9 +1,6 @@
-// MODUL REACT
 import React from "react";
 import { BsArrowUpRight } from "react-icons/bs";
-// MODUL FRAMER MOTION
 import { motion } from "framer-motion";
-// UTILS SAYA
 import { Muncul } from "../utils/Pariasi";
 import { LayananSaya } from "../utils/Data";
 

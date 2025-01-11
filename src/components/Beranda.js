@@ -41,7 +41,7 @@ const Beranda = () => {
               viewport={{ once: false, amount: 0.7 }}
               className="md:text-[120px] sm:text-[60px] smm:text-[50px] font-bold leading-[0.8] xl:text-[110px] lg:text-[85px]"
             >
-              MUHAMAD <span>LUTV</span>
+              Lutv <span>Burdah</span>
             </motion.h1>
             <motion.div
               variants={Muncul("up", 0.4)}
@@ -54,7 +54,7 @@ const Beranda = () => {
               <span className="text-white mr-2">Saya Seorang</span>
               <TypeAnimation
                 sequence={[
-                  "Web Developer",
+                  "Developer",
                   2000,
                   "Mahasiswa",
                   2000,

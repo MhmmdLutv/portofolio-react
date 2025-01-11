@@ -1,6 +1,4 @@
-// MODUL REACT
 import React from "react";
-// LOGO
 import Logo from "../assets/Logo.png";
 
 const Kepala = () => {

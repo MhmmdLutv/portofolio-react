@@ -1,10 +1,7 @@
-// MODUL REACT
 import React from "react";
 import Penghitung from "react-countup";
 import { useInView } from "react-intersection-observer";
-// MODUL FRAMER MOTION
 import { motion } from "framer-motion";
-// UTILS SAYA
 import { Muncul } from "../utils/Pariasi";
 
 const Tentang = () => {
